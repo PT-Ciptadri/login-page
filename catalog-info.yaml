@@ -9,3 +9,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: group:Frontend
+  consumesApis:
+    - simkes
