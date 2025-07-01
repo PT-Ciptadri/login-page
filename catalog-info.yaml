@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: "login-page"
   # description: Sistem kesiswaan backend (API Go)
-  # annotations:
-  #   github.com/project-slug: PT-Ciptadri/simkes-go
+  annotations:
+    github.com/project-slug: PT-Ciptadri/login-page
 spec:
   type: service
   lifecycle: experimental
