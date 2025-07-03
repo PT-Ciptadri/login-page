@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: "login-page-oi"
   # links:
-  #   - url: https://dashboard.example.com
-  #     title: My Dashboard
-      icon: dashboard
+    # - url: https://dashboard.example.com
+    #   title: My Dashboard
+    #   icon: dashboard
   # description: Sistem kesiswaan backend (API Go)
   annotations:
     github.com/project-slug: PT-Ciptadri/login-page
