@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "login-page-oi"
-  links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
+  # links:
+  #   - url: https://dashboard.example.com
+  #     title: My Dashboard
       icon: dashboard
   # description: Sistem kesiswaan backend (API Go)
   annotations:
