@@ -7,8 +7,8 @@ metadata:
       title: My Dashboard
       icon: dashboard
   # description: Sistem kesiswaan backend (API Go)
-  # annotations:
-  #   github.com/project-slug: PT-Ciptadri/login-page
+  annotations:
+    github.com/project-slug: PT-Ciptadri/login-page
 spec:
   type: service
   lifecycle: experimental
