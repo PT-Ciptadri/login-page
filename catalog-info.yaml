@@ -9,7 +9,7 @@ metadata:
   # description: Sistem kesiswaan backend (API Go)
   annotations:
     github.com/project-slug: PT-Ciptadri/login-page
-    backstage:source-location: https://github.com/PT-Ciptadri/login-page/tree/main/
+    # backstage:source-location: https://github.com/PT-Ciptadri/login-page/tree/main/
 spec:
   type: service
   lifecycle: experimental
